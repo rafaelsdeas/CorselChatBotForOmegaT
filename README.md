@@ -83,6 +83,3 @@ This plugin is open-source and welcomes contributions from the community. If you
 ## License
 
 This plugin is licensed under the MIT License. See the LICENSE file for details.
-## License
-
-This plugin is licensed under the MIT License. See the LICENSE file for details.
